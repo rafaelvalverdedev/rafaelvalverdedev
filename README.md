@@ -26,13 +26,14 @@
 ###
 
 <BR>
-Linguagens 
+Linguagens
 
 ###
 <h3> Ferramentas e tecnologias </h3>
 
-| IDE | <img src="https://skillicons.dev/icons?i=vscode" height="25" alt="vscode logo"  /> |  |  |
+| IDE | <img src="https://skillicons.dev/icons?i=vscode" height="25" alt="Visual Studio Code"  /> |  |  |
 | :--: | :--: | :--: | :--: |
-| Frontend | <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  /> | <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="25" alt="css3 logo"  /> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  /> |
-| Backend | <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  /> | <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="25" alt="php logo"  /> |  |
-| Data | <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="25" alt="mysql logo"  /> | 
+| Frontend | <img src="https://skillicons.dev/icons?i=html&theme=light" width="30" alt="HTML5"/>    | <img src="https://skillicons.dev/icons?i=css&theme=light" width="30" alt="CSS" /> | <img src="https://skillicons.dev/icons?i=js&theme=light" width="30" alt="JavaScript"/> | |
+| Backend  | <img src="https://skillicons.dev/icons?i=python&theme=light" width="30" alt="Python" />  |  |  |
+| Data     | <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="30" alt="MySQL" />   |
+| Design   | <img src="https://skillicons.dev/icons?i=ae&theme=light" width="30" alt="After Effects" />      | <img src="https://skillicons.dev/icons?i=ai&theme=light" width="30" alt="Illustrator" /> | <img src="https://skillicons.dev/icons?i=ps&theme=light" width="30" alt="Photoshop"/> |
