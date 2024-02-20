@@ -23,17 +23,22 @@
   </a>
 </div>
 
-###
-
-<BR>
-Linguagens
+<br>
 
 ###
-<h3> Ferramentas e tecnologias </h3>
+<h3> Ferramentas e Tecnologias </h3>
 
-| IDE | <img src="https://skillicons.dev/icons?i=vscode" height="25" alt="Visual Studio Code"  /> |  |  |
+| IDE | <img src="https://skillicons.dev/icons?i=vscode" height="25" alt="Visual Studio Code"  /> |
+| :--: | :--: |
+
+| Frontend | <img src="https://skillicons.dev/icons?i=html&theme=light" width="30" alt="HTML5"/>    | <img src="https://skillicons.dev/icons?i=css&theme=light" width="30" alt="CSS" /> | <img src="https://skillicons.dev/icons?i=js&theme=light" width="30" alt="JavaScript"/> |
 | :--: | :--: | :--: | :--: |
-| Frontend | <img src="https://skillicons.dev/icons?i=html&theme=light" width="30" alt="HTML5"/>    | <img src="https://skillicons.dev/icons?i=css&theme=light" width="30" alt="CSS" /> | <img src="https://skillicons.dev/icons?i=js&theme=light" width="30" alt="JavaScript"/> | |
-| Backend  | <img src="https://skillicons.dev/icons?i=python&theme=light" width="30" alt="Python" />  |  |  |
+
+| Backend  | <img src="https://skillicons.dev/icons?i=python&theme=light" width="30" alt="Python" />  |
+| :--: | :--: |
+
 | Data     | <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="30" alt="MySQL" />   |
+| :--: | :--: |
+
 | Design   | <img src="https://skillicons.dev/icons?i=ae&theme=light" width="30" alt="After Effects" />      | <img src="https://skillicons.dev/icons?i=ai&theme=light" width="30" alt="Illustrator" /> | <img src="https://skillicons.dev/icons?i=ps&theme=light" width="30" alt="Photoshop"/> |
+| :--: | :--: | :--: | :--: |
